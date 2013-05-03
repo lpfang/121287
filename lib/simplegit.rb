@@ -1,3 +1,4 @@
+#This is the first time i read a ruby program
 # a super simple example class to use git in ruby
 class SimpleGit
   
